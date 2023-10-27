@@ -1,0 +1,3 @@
+docker run -it --rm --name dj_container -p 8000:80 marat2010/dj_image:01    - Установка
+
+http://localhost:8000/admin/    - admin     admin
